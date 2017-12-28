@@ -1,0 +1,80 @@
+12/27/2017 4:35:06 PM: Fetching Discovery Data..
+12/27/2017 4:35:07 PM: Discovery Data obtained..
+12/27/2017 4:35:07 PM: Intiating OAuth2 call to get code..
+12/27/2017 4:35:07 PM: Setting up Authorize url.
+12/27/2017 4:35:07 PM: Calling AuthorizeUrl.
+12/27/2017 4:37:17 PM: Fetching Discovery Data..
+12/27/2017 4:37:18 PM: Discovery Data obtained..
+12/27/2017 4:37:18 PM: Intiating OAuth2 call to get code..
+12/27/2017 4:37:18 PM: Setting up Authorize url.
+12/27/2017 4:37:18 PM: Calling AuthorizeUrl.
+12/27/2017 4:43:00 PM: Fetching Discovery Data..
+12/27/2017 4:43:02 PM: Discovery Data obtained..
+12/27/2017 4:43:02 PM: Intiating OAuth2 call to get code..
+12/27/2017 4:43:02 PM: Setting up Authorize url.
+12/27/2017 4:43:02 PM: Calling AuthorizeUrl.
+12/27/2017 4:43:53 PM: Fetching Discovery Data..
+12/27/2017 4:43:54 PM: Discovery Data obtained..
+12/27/2017 4:43:54 PM: Intiating OAuth2 call to get code..
+12/27/2017 4:43:54 PM: Setting up Authorize url.
+12/27/2017 4:43:54 PM: Calling AuthorizeUrl.
+12/27/2017 4:44:09 PM: Fetching Discovery Data..
+12/27/2017 4:44:10 PM: Discovery Data obtained..
+12/27/2017 4:44:10 PM: Intiating OAuth2 call to get code..
+12/27/2017 4:44:10 PM: Setting up Authorize url.
+12/27/2017 4:44:10 PM: Calling AuthorizeUrl.
+12/27/2017 5:03:12 PM: Fetching Discovery Data..
+12/27/2017 5:03:13 PM: Discovery Data obtained..
+12/27/2017 5:03:13 PM: Intiating OAuth2 call to get code..
+12/27/2017 5:03:13 PM: Setting up Authorize url.
+12/27/2017 5:03:13 PM: Calling AuthorizeUrl.
+12/27/2017 5:06:28 PM: Fetching Discovery Data..
+12/27/2017 5:06:30 PM: Discovery Data obtained..
+12/27/2017 5:06:30 PM: Intiating OAuth2 call to get code..
+12/27/2017 5:06:30 PM: Setting up Authorize url.
+12/27/2017 5:06:30 PM: Calling AuthorizeUrl.
+12/27/2017 5:07:46 PM: Fetching Discovery Data..
+12/27/2017 5:07:47 PM: Discovery Data obtained..
+12/27/2017 5:07:47 PM: Intiating OAuth2 call to get code..
+12/27/2017 5:07:47 PM: Setting up Authorize url.
+12/27/2017 5:07:47 PM: Calling AuthorizeUrl.
+12/27/2017 5:13:06 PM: Fetching Discovery Data..
+12/27/2017 5:13:07 PM: Discovery Data obtained..
+12/27/2017 5:13:07 PM: Intiating OAuth2 call to get code..
+12/27/2017 5:13:52 PM: Setting up Authorize url.
+12/27/2017 5:14:21 PM: Calling AuthorizeUrl.
+12/27/2017 5:22:24 PM: Fetching Discovery Data..
+12/27/2017 5:22:25 PM: Discovery Data obtained..
+12/27/2017 5:22:25 PM: Intiating OAuth2 call to get code..
+12/27/2017 5:22:30 PM: Setting up Authorize url.
+12/27/2017 5:22:30 PM: Calling AuthorizeUrl.
+12/27/2017 5:26:19 PM: Fetching Discovery Data..
+12/27/2017 5:26:20 PM: Discovery Data obtained..
+12/27/2017 5:26:20 PM: Intiating OAuth2 call to get code..
+12/27/2017 5:26:20 PM: Setting up Authorize url.
+12/27/2017 5:26:20 PM: Calling AuthorizeUrl.
+12/27/2017 5:29:02 PM: Fetching Discovery Data..
+12/27/2017 5:29:03 PM: Discovery Data obtained..
+12/27/2017 5:29:03 PM: Intiating OAuth2 call to get code..
+12/27/2017 5:29:03 PM: Setting up Authorize url.
+12/27/2017 5:29:03 PM: Calling AuthorizeUrl.
+12/27/2017 5:32:15 PM: Fetching Discovery Data..
+12/27/2017 5:32:16 PM: Discovery Data obtained..
+12/27/2017 5:32:16 PM: Intiating OAuth2 call to get code..
+12/27/2017 5:32:16 PM: Setting up Authorize url.
+12/27/2017 5:32:16 PM: Calling AuthorizeUrl.
+12/27/2017 10:04:18 PM: Fetching Discovery Data..
+12/27/2017 10:04:19 PM: Discovery Data obtained..
+12/27/2017 10:04:19 PM: Intiating OAuth2 call to get code..
+12/27/2017 10:04:19 PM: Setting up Authorize url.
+12/27/2017 10:04:19 PM: Calling AuthorizeUrl.
+12/27/2017 10:14:41 PM: Fetching Discovery Data..
+12/27/2017 10:14:43 PM: Discovery Data obtained..
+12/27/2017 10:14:43 PM: Intiating OAuth2 call to get code..
+12/27/2017 10:14:43 PM: Setting up Authorize url.
+12/27/2017 10:14:43 PM: Calling AuthorizeUrl.
+12/27/2017 10:18:26 PM: Fetching Discovery Data..
+12/27/2017 10:18:28 PM: Discovery Data obtained..
+12/27/2017 10:18:28 PM: Intiating OAuth2 call to get code..
+12/27/2017 10:18:28 PM: Setting up Authorize url.
+12/27/2017 10:18:28 PM: Calling AuthorizeUrl.
